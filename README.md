@@ -1,4 +1,4 @@
-# Activity Lifecycle Demonstration (EXp2)
+# Fragments Demonstration (EXp3)
 
 An Android application designed to help developers understand and visualize the **Activity Lifecycle** through real-time logging and UI feedback.
 
